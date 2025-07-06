@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Changbing Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computational Linguistics"
   location         : "Vancouver, Canada"
   employer         : "University of British Columbia"
   uri              : # URL
@@ -72,8 +72,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  manuscripts:
-    title: 'Journal Articles'    
+  #manuscripts:
+    #title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
