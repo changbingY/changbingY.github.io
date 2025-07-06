@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Changbing Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Computational Linguistics"
+  bio              : #"Computational Linguistics"
   location         : "Vancouver, Canada"
   employer         : "University of British Columbia"
   uri              : # URL
