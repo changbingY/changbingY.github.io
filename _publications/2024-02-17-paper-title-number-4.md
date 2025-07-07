@@ -2,7 +2,7 @@
 title: "Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet"
 collection: publications
 category: conferences
-excerpt: 'This paper is about fixing template issue #693.'
+authors: 'Shenran Wang, {Changbing Yang}, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu'
 venue: 'NAACL 2025'
 paperurl: 'https://aclanthology.org/2025.naacl-short.69.pdf'
 ---
