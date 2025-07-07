@@ -1,11 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant of COLX 525, 561, 581"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "UBC, MDS-CL program"
+date: 2023-present
+location: "UBC"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
