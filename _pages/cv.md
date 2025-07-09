@@ -17,29 +17,17 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.01.-Present: Teaching Assistant
+  * University of British Columbia
+  * Supervisor: Professor Miikka Silfverberg, Garrett Nicolai, Jian Zhu
+    
+* 2021.09-Present: Research Assistant
+  * University of British Columbia
+  * Supervisor: Professor Miikka Silfverberg, Garrett Nicolai, Jian Zhu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019.10-2021.07: Research Assistant
+  * University of Colorado Boulder University
+  * Supervisor: Professor Katharina von der Wense 
 
 Publications
 ======
@@ -59,6 +47,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewing
+  * ACL Rolling Review (2021, 2022, 2024, 2025)
+  * NAACL (2022)
+  * SIGMORPHON (2022, 2023, 2024)
+  * Computel-8 (2025)
+    
+* Program Committees
+  * SIGMORPHON (2022, 2023, 2024)
+  * Computel-8 (2025)
+  
+Skills
+======
+* Languages: Mandarin, English, Japanese
