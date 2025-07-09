@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Linguistics, University of British Columbia
+* Ph.D in Computational Linguistics, University of British Columbia
 * M.S. in Computational Linguistics, University of Colorado Boulder, 2021
 * B.A. in English, Southeast University, 2018
 
