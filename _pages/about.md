@@ -27,16 +27,6 @@ BA in English & Linguistics (Minor: Japanese, Accounting)
 
 ---
 
-## Internship Experience
-
-**Research Intern**, National Research Council Canada (NRC) — Remote, 01/2026 – Present  
-*Advisor: Dr. Chi Kiu (Jackie) Lo*
-
-**Research Intern**, National Research Council Canada (NRC) — Ottawa, Canada, 05/2025 – 08/2025  
-*Advisor: Dr. Patrick Littell*
-
----
-
 ## Publications
 
 1. **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng. **GlossMATE: Multi-Agent Translator Explanations for Glosses.** *LREC 2026 (to appear).*
@@ -88,25 +78,8 @@ BA in English & Linguistics (Minor: Japanese, Accounting)
 
 ---
 
-## Teaching Experience
-
-**Lab Instructor / Senior TA**, UBC, 2024–2025
-- DSCI 511: Programming for Data Science
-- DSCI 512: Algorithms and Data Structures
-- COLX 521: Corpus Linguistics
-
-**Teaching Assistant**, UBC, 2022–2024
-- COLX 525: Computational Morphology
-- COLX 561: Computational Semantics
-- COLX 581: NLP for Low-Resource Languages
-
-**Teaching Assistant**, UBC, 2023
-- LING 142: Language and Technology
-
----
-
 ## Academic Service
 
 **Reviewer:** ACL Rolling Review (2021–present), NAACL (2022), SIGMORPHON (2022, 2023, 2024), ComputEL-8 (2025), WiNLP (2025), ACL-SRW (2026)
 
-**Program Committees:** SIGMORPHON (2022, 2023, 2024)
+**Program Committees:** SIGMORPHON (2022, 2023, 2024)，Computel-8
