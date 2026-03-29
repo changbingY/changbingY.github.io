@@ -11,7 +11,7 @@ Hi, I'm **Changbing**, a 5th-year PhD candidate in Computational Linguistics at 
 Technologies team. Feel free to reach out if you'd like to chat or explore potential collaborations.
 
 ## Research Interests
-My research sits at the intersection of linguistics and artificial intelligence, with a focus on low-resource and endangered languages. I develop data-efficient methods, NLP models, and LLM-based approaches for language documentation tasks such as automatic glossing, translation, and speech processing. More broadly, I am interested in building language technologies that are both technically effective and practical for real documentation workflows, especially in collaboration with linguists and community partners.
+My research is at the intersection of linguistics and AI. My work mainly focuses on how modern NLP, especially LLMs, can be used to support low-resource language documentation and analysis. My work combines linguistic insight with computational modeling, and I develop practical tools and models for languages that are often endangered and extremely data-scarce. Beyond model and data, I also work closely with linguists and native speaker communities, so I always try to design tools that are not only technically strong, but also practical and meaningful in real documentation settings.
 
 ---
 
