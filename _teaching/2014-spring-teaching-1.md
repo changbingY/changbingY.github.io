@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant, COLX 525, 561, 581"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UBC, MDS-CL Program"
+date: 2023-present
+location: "Vancouver, BC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Senior Teaching Assistant for the Master of Data Science in Computational Linguistics (MDS-CL) program at the University of British Columbia.
 
-Heading 1
-======
+- **COLX 525** – Corpus Linguistic Methods
+- **COLX 561** – Computational Semantics  
+- **COLX 581** – Multilingual NLP
 
-Heading 2
-======
-
-Heading 3
-======
+Responsibilities include designing lab assignments, holding office hours, grading, and supporting students in topics such as language modeling, sequence labeling, and NLP system evaluation.
