@@ -7,7 +7,6 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
 title : "Changbing Yang"
 name : &name "Changbing Yang"
 description : &description "PhD candidate in Computational Linguistics at UBC working on low-resource language technology, LLMs, and language documentation."
