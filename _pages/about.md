@@ -15,18 +15,14 @@ More broadly, I am interested in building language technologies that are both te
 
 ## Education
 
-**University of British Columbia** 
-
+**University of British Columbia**, Vancouver, Canada  
 PhD in Computational Linguistics
 
-**University of Colorado Boulder**
-
+**University of Colorado Boulder**, Boulder, United States  
 MS in Computational Linguistics
 
-**Southeast University**  
-
+**Southeast University**, Nanjing, China  
 BA in English & Linguistics (Minor: Japanese, Accounting)  
-
 *Summer Exchange Program: Tohoku University, Sendai, Japan*
 
 ---
@@ -34,11 +30,9 @@ BA in English & Linguistics (Minor: Japanese, Accounting)
 ## Internship Experience
 
 **Research Intern**, National Research Council Canada (NRC) — Remote, 01/2026 – Present  
-
 *Advisor: Dr. Chi Kiu (Jackie) Lo*
 
 **Research Intern**, National Research Council Canada (NRC) — Ottawa, Canada, 05/2025 – 08/2025  
-
 *Advisor: Dr. Patrick Littell*
 
 ---
