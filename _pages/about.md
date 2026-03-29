@@ -17,22 +17,22 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 
 ## Publications
 
-1. **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng. **GlossMATE: Multi-Agent Translator Explanations for Glosses.** *LREC 2026 (to appear).*
-2. **Changbing Yang**, Franklin Ma, Freda Shi, Jian Zhu. **LingGym: How Far Are LLMs from Thinking Like Field Linguists?** *EMNLP 2025 (Oral).* 🏆 Outstanding Paper Award.
-3. Shenran Wang, **Changbing Yang**, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu. **Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet.** *NAACL 2025.* 🏆 Best Theme Paper Runner-Up.
-4. **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller. **Adaptability of NLP Annotation Tools for Linguistics.** *ComputEL-8, 2025.*
-5. **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Multiple Sources are Better Than One: Incorporating External Knowledge in Low-Resource Glossing.** *EMNLP 2024.*
-6. Jian Zhu, **Changbing Yang**, Farhan Samir, Jahurul Islam. **The taste of IPA: Towards open-vocabulary keyword matching and forced alignment in any language.** *NAACL 2024.*
-7. Adam Wiemerslage, **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg, and Katharina Kann. **An Investigation of Noise in Morphological Inflection.** *Findings of ACL 2023.*
-8. Garrett Nicolai, **Changbing Yang**, Miikka Silfverberg. **Penalizing Divergence: Multi-Parallel Translation for Low-Resource Languages of North America.** *COLING 2022.*
-9. **Changbing Yang**, Ruixin (Ray) Yang, Garrett Nicolai, Miikka Silfverberg. **Generalizing Morphological Inflection Systems to Unseen Lemmas.** *SIGMORPHON 2022.*
-10. Adam Wiemerslage, Miikka Silfverberg, **Changbing Yang**, Arya D McCarthy, Garrett Nicolai, Eliana Colunga, Katharina Kann. **Morphological Processing of Low-Resource Languages: Where We Are and What's Next.** *Findings of ACL 2022.*
-11. Bruce Oliver, Clarissa Forbes, **Changbing Yang**, Farhan Samir, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **An Inflectional Database for Gitksan.** *LREC 2022.*
-12. Clarissa Forbes, Farhan Samir, Bruce Harold Oliver, **Changbing Yang**, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **Dim Wihl Gat Tun: The Case for Linguistic Expertise in NLP for Underdocumented Languages.** *Findings of ACL 2022.*
-13. **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Unsupervised paradigm clustering using transformation rules.** *SIGMORPHON 2021.*
-14. Beilei Xiang, **Changbing Yang**, Yu Li, Alex Warstadt and Katharina Kann. **CLiMP: A Benchmark for Chinese Language Model Evaluations.** *EACL 2021.*
-15. Sarah Moeller, Ling Liu, **Changbing Yang**, Katharina Kann and Mans Hulden. **IGT2P: From Interlinear Glossed Texts to Paradigms.** *EMNLP 2020.*
-16. Sarah Beemer, ..., **Changbing Yang** and Mans Hulden. **Linguist vs. Machine: Rapid Development of Finite-State Morphological Grammars.** *SIGMORPHON 2020.*
+- **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng. **GlossMATE: Multi-Agent Translator Explanations for Glosses.** *LREC 2026 (to appear).*
+- **Changbing Yang**, Franklin Ma, Freda Shi, Jian Zhu. **LingGym: How Far Are LLMs from Thinking Like Field Linguists?** *EMNLP 2025 (Oral).* 🏆 Outstanding Paper Award.
+- Shenran Wang, **Changbing Yang**, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu. **Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet.** *NAACL 2025.* 🏆 Best Theme Paper Runner-Up.
+- **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller. **Adaptability of NLP Annotation Tools for Linguistics.** *ComputEL-8, 2025.*
+- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Multiple Sources are Better Than One: Incorporating External Knowledge in Low-Resource Glossing.** *EMNLP 2024.*
+- Jian Zhu, **Changbing Yang**, Farhan Samir, Jahurul Islam. **The taste of IPA: Towards open-vocabulary keyword matching and forced alignment in any language.** *NAACL 2024.*
+- Adam Wiemerslage, **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg, and Katharina Kann. **An Investigation of Noise in Morphological Inflection.** *Findings of ACL 2023.*
+- Garrett Nicolai, **Changbing Yang**, Miikka Silfverberg. **Penalizing Divergence: Multi-Parallel Translation for Low-Resource Languages of North America.** *COLING 2022.*
+- **Changbing Yang**, Ruixin (Ray) Yang, Garrett Nicolai, Miikka Silfverberg. **Generalizing Morphological Inflection Systems to Unseen Lemmas.** *SIGMORPHON 2022.*
+- Adam Wiemerslage, Miikka Silfverberg, **Changbing Yang**, Arya D McCarthy, Garrett Nicolai, Eliana Colunga, Katharina Kann. **Morphological Processing of Low-Resource Languages: Where We Are and What's Next.** *Findings of ACL 2022.*
+- Bruce Oliver, Clarissa Forbes, **Changbing Yang**, Farhan Samir, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **An Inflectional Database for Gitksan.** *LREC 2022.*
+- Clarissa Forbes, Farhan Samir, Bruce Harold Oliver, **Changbing Yang**, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **Dim Wihl Gat Tun: The Case for Linguistic Expertise in NLP for Underdocumented Languages.** *Findings of ACL 2022.*
+- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Unsupervised paradigm clustering using transformation rules.** *SIGMORPHON 2021.*
+- Beilei Xiang, **Changbing Yang**, Yu Li, Alex Warstadt and Katharina Kann. **CLiMP: A Benchmark for Chinese Language Model Evaluations.** *EACL 2021.*
+- Sarah Moeller, Ling Liu, **Changbing Yang**, Katharina Kann and Mans Hulden. **IGT2P: From Interlinear Glossed Texts to Paradigms.** *EMNLP 2020.*
+- Sarah Beemer, ..., **Changbing Yang** and Mans Hulden. **Linguist vs. Machine: Rapid Development of Finite-State Morphological Grammars.** *SIGMORPHON 2020.*
 
 ---
 
