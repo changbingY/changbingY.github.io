@@ -14,6 +14,9 @@ Technologies team. Feel free to reach out if you'd like to chat or explore poten
 My research is at the intersection of linguistics and AI. My work mainly focuses on how modern NLP, especially LLMs, can be used to support low-resource language documentation and analysis. My work combines linguistic insight with computational modeling, and I develop practical tools and models for languages that are often endangered and extremely data-scarce. Beyond model and data, I also work closely with linguists and native speaker communities, so I always try to design tools that are not only technically strong, but also practical and meaningful in real documentation settings.
 
 ---
+<p style="color: red;"><strong>I am currently on the job market and actively seeking research positions in both academia and industry. Please feel free to reach out if you think there might be a good fit!</strong></p>
+
+---
 
 ## Publications
 
