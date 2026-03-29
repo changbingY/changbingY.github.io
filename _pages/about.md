@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. During my PhD, I have interned at the National Research Council Canada (NRC) with the Languages 
+Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. During my PhD, I have interned at the National Research Council Canada (NRC) with the Language 
 Technologies team. Feel free to reach out if you'd like to chat or explore potential collaborations.
 
 ## Research Interests
@@ -68,4 +68,19 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 
 **Reviewer:** ACL Rolling Review (2021–present), NAACL (2022), SIGMORPHON (2022, 2023, 2024), ComputEL-8 (2025), WiNLP (2025), ACL-SRW (2026)
 
-**Program Committees:** SIGMORPHON (2022, 2023, 2024)，Computel-8
+**Program Committees:** SIGMORPHON (2022, 2023, 2024)，Computel-8 (2025)
+
+## Teaching Experience
+
+**Lab Instructor / Senior TA**, UBC, 2024–2025
+- DSCI 511: Programming for Data Science
+- DSCI 512: Algorithms and Data Structures
+- COLX 521: Corpus Linguistics
+
+**Teaching Assistant**, UBC, 2022–2026
+- COLX 525: Computational Morphology
+- COLX 561: Computational Semantics
+- COLX 581: NLP for Low-Resource Languages
+
+**Teaching Assistant**, UBC, 2023
+- LING 142: Language and Technology
