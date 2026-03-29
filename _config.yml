@@ -11,6 +11,8 @@ title : "Changbing Yang"
 name : &name "Changbing Yang"
 description : &description "PhD candidate in Computational Linguistics at UBC working on low-resource language technology, LLMs, and language documentation."
 repository : "changbingY/changbingY.github.io"
+url        : "https://changbingY.github.io"
+remote_theme: academicpages/academicpages.github.io
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -293,6 +295,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -301,6 +304,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme
 
 
 # Archives
