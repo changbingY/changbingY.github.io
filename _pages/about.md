@@ -7,23 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Changbing, a PhD candidate in Computational Linguistics at the University of British Columbia.
-My research sits at the intersection of linguistics and artificial intelligence, with a focus on low-resource and endangered languages. I develop data-efficient methods, NLP models, and LLM-based approaches for tasks such as automatic glossing, translation, speech processing, and language documentation.
-More broadly, I am interested in building language technologies that are both technically effective and practical for real documentation workflows, especially in collaboration with linguists and community partners.
+Hi, I'm **Changbing Yang**, a PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. During my PhD, I have interned at the National Research Council Canada (NRC) with the Languages 
+Technologies team. Feel free to reach out if you'd like to chat or explore potential collaborations.
 
----
-
-## Education
-
-**University of British Columbia**, Vancouver, Canada  
-PhD in Computational Linguistics
-
-**University of Colorado Boulder**, Boulder, United States  
-MS in Computational Linguistics
-
-**Southeast University**, Nanjing, China  
-BA in English & Linguistics (Minor: Japanese, Accounting)  
-*Summer Exchange Program: Tohoku University, Sendai, Japan*
+## Research Interests
+My research sits at the intersection of linguistics and artificial intelligence, with a focus on low-resource and endangered languages. I develop data-efficient methods, NLP models, and LLM-based approaches for tasks such as automatic glossing, translation, speech processing, and language documentation. More broadly, I am interested in building language technologies that are both technically effective and practical for real documentation workflows, especially in collaboration with linguists and community partners.
 
 ---
 
@@ -48,21 +36,6 @@ BA in English & Linguistics (Minor: Japanese, Accounting)
 
 ---
 
-## Awards & Honors
-
-- **Outstanding Student Contribution**, NRC, 2025
-- **Ph.D. CoLab Award** (CAD 8,000), UBC, 2024
-- **Affiliated Fellowship** (CAD 16,000), UBC, 2023–2024
-- **Teaching Assistant Excellence Award**, UBC, 2023, 2024, 2025
-- **Faculty of Arts Graduate Award**, UBC, 2021–2026
-- **International Tuition Award**, UBC, 2021–2026
-- **President's Academic Excellence Initiative PhD Award**, UBC, 2021–2026
-- **JASSO Scholarship** (JPY 80,000), Tohoku University, 2017
-- **Province-level Student Research Training Program Scholarship** (CNY 2,000), Southeast University, 2016
-- **Course Scholarship** (CNY 1,000), Southeast University, 2015
-
----
-
 ## Invited Talks & Guest Lectures
 
 - **Invited Talk**, University of British Columbia (NLP Group), Feb 2026  
@@ -77,7 +50,20 @@ BA in English & Linguistics (Minor: Japanese, Accounting)
   *Automatic glossing encoder–decoder models for linguistic annotation and low-resource language processing.*
 
 ---
+## Awards & Honors
 
+- **Outstanding Student Contribution**, NRC, 2025
+- **Ph.D. CoLab Award** (CAD 8,000), UBC, 2024
+- **Affiliated Fellowship** (CAD 16,000), UBC, 2023–2024
+- **Teaching Assistant Excellence Award**, UBC, 2023, 2024, 2025
+- **Faculty of Arts Graduate Award**, UBC, 2021–2026
+- **International Tuition Award**, UBC, 2021–2026
+- **President's Academic Excellence Initiative PhD Award**, UBC, 2021–2026
+- **JASSO Scholarship** (JPY 80,000), Tohoku University, 2017
+- **Province-level Student Research Training Program Scholarship** (CNY 2,000), Southeast University, 2016
+- **Course Scholarship** (CNY 1,000), Southeast University, 2015
+
+---
 ## Academic Service
 
 **Reviewer:** ACL Rolling Review (2021–present), NAACL (2022), SIGMORPHON (2022, 2023, 2024), ComputEL-8 (2025), WiNLP (2025), ACL-SRW (2026)
