@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 title : "Changbing Yang"
-name : &name "Changbing Yang"
+name : &name ""
 description : &description "PhD candidate in Computational Linguistics at UBC working on low-resource language technology, LLMs, and language documentation."
 repository : "changbingY/changbingY.github.io"
 url        : "https://changbingY.github.io"
