@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Changbing**, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. During my PhD, I have interned at the National Research Council Canada (NRC) with the Languages 
+Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. During my PhD, I have interned at the National Research Council Canada (NRC) with the Languages 
 Technologies team. Feel free to reach out if you'd like to chat or explore potential collaborations.
 
 ## Research Interests
