@@ -72,12 +72,12 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 
 ## Teaching Experience
 
-**Lab Instructor / Senior TA**, UBC, 2024–2025
+**Lab Instructor / Senior TA**, UBC, 2024–2026
 - DSCI 511: Programming for Data Science
 - DSCI 512: Algorithms and Data Structures
 - COLX 521: Corpus Linguistics
 
-**Teaching Assistant**, UBC, 2022–2026
+**Teaching Assistant**, UBC, 2022–2024
 - COLX 525: Computational Morphology
 - COLX 561: Computational Semantics
 - COLX 581: NLP for Low-Resource Languages
