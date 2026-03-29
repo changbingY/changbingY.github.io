@@ -7,32 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Changbing Yang**, a PhD candidate in Computational Linguistics at the **University of British Columbia**.
-My research sits at the intersection of **linguistics** and **artificial intelligence**, with a focus on **low-resource and endangered languages**. I develop data-efficient methods, NLP models, and LLM-based approaches for tasks such as **automatic glossing, translation, speech processing, and language documentation**.
-More broadly, I am interested in building language technologies that are both **technically effective** and **practical for real documentation workflows**, especially in collaboration with linguists and community partners.
+Hi, I'm Changbing, a PhD candidate in Computational Linguistics at the University of British Columbia.
+My research sits at the intersection of linguistics and artificial intelligence, with a focus on low-resource and endangered languages. I develop data-efficient methods, NLP models, and LLM-based approaches for tasks such as automatic glossing, translation, speech processing, and language documentation.
+More broadly, I am interested in building language technologies that are both technically effective and practical for real documentation workflows, especially in collaboration with linguists and community partners.
 
 ---
 
 ## Education
 
-**University of British Columbia** — Vancouver, Canada  
-PhD in Computational Linguistics, 09/2021 – Present
+**University of British Columbia** 
+PhD in Computational Linguistics
 
-**University of Colorado Boulder** — Boulder, United States  
-MS in Computational Linguistics, 08/2019 – 05/2021
+**University of Colorado Boulder**
+MS in Computational Linguistics
 
-**Southeast University** — Nanjing, China  
-BA in English & Linguistics (Minor: Japanese, Accounting), 08/2014 – 06/2018  
+**Southeast University**  
+BA in English & Linguistics (Minor: Japanese, Accounting)  
 *Summer Exchange Program: Tohoku University, Sendai, Japan*
 
 ---
 
 ## Internship Experience
 
+**Research Intern**, National Research Council Canada (NRC) — Ottawa, Canada, 01/2026 – Present  
+*Advisor: Dr. Chi Kiu (Jackie) Lo*
+
 **Research Intern**, National Research Council Canada (NRC) — Ottawa, Canada, 05/2025 – 08/2025  
 *Advisor: Dr. Patrick Littell*
-- Developed a multi-agent LLM framework for translating interlinear glossed text (Gloss → Translation) with agent collaboration and human-in-the-loop feedback.
-- Analyzed multi-agent reasoning patterns across morphologically rich languages to enhance cross-lingual generalization and interpretability.
 
 ---
 
