@@ -18,8 +18,8 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 ## Publications
 
 - **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng. **GlossMATE: Multi-Agent Translator Explanations for Glosses.** *LREC 2026 (to appear).*
-- **Changbing Yang**, Franklin Ma, Freda Shi, Jian Zhu. **LingGym: How Far Are LLMs from Thinking Like Field Linguists?** *EMNLP 2025 (Oral).* 🏆 Outstanding Paper Award.
-- Shenran Wang, **Changbing Yang**, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu. **Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet.** *NAACL 2025.* 🏆 Best Theme Paper Runner-Up.
+- **Changbing Yang**, Franklin Ma, Freda Shi, Jian Zhu. **LingGym: How Far Are LLMs from Thinking Like Field Linguists?** *EMNLP 2025 (Oral).* 🏆 <span style="background-color: #fff9c4; padding: 2px 6px; border-radius: 3px;">Outstanding Paper Award</span>
+- Shenran Wang, **Changbing Yang**, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu. **Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet.** *NAACL 2025.* 🏆 <span style="background-color: #fff9c4; padding: 2px 6px; border-radius: 3px;">Best Theme Paper Runner-Up</span>
 - **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller. **Adaptability of NLP Annotation Tools for Linguistics.** *ComputEL-8, 2025.*
 - **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Multiple Sources are Better Than One: Incorporating External Knowledge in Low-Resource Glossing.** *EMNLP 2024.*
 - Jian Zhu, **Changbing Yang**, Farhan Samir, Jahurul Islam. **The taste of IPA: Towards open-vocabulary keyword matching and forced alignment in any language.** *NAACL 2024.*
