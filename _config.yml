@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-title : "Changbing Yang"
+title : "Changbing Yang | 杨长冰"
 name : &name ""
 description : &description "PhD candidate in Computational Linguistics at UBC working on low-resource language technology, LLMs, and language documentation."
 repository : "changbingY/changbingY.github.io"
