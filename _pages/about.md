@@ -26,12 +26,12 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 - **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller. **Adaptability of NLP Annotation Tools for Linguistics.** *ComputEL-8, 2025.*
 - **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Multiple Sources are Better Than One: Incorporating External Knowledge in Low-Resource Glossing.** *EMNLP 2024.*
 - Jian Zhu, **Changbing Yang**, Farhan Samir, Jahurul Islam. **The taste of IPA: Towards open-vocabulary keyword matching and forced alignment in any language.** *NAACL 2024.*
-- Adam Wiemerslage, **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg, and Katharina Kann. **An Investigation of Noise in Morphological Inflection.** *Findings of ACL 2023.*
+- Adam Wiemerslage, **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg, and Katharina Kann. **An Investigation of Noise in Morphological Inflection.** *ACL 2023 Findings.*
 - Garrett Nicolai, **Changbing Yang**, Miikka Silfverberg. **Penalizing Divergence: Multi-Parallel Translation for Low-Resource Languages of North America.** *COLING 2022.*
 - **Changbing Yang**, Ruixin (Ray) Yang, Garrett Nicolai, Miikka Silfverberg. **Generalizing Morphological Inflection Systems to Unseen Lemmas.** *SIGMORPHON 2022.*
-- Adam Wiemerslage, Miikka Silfverberg, **Changbing Yang**, Arya D McCarthy, Garrett Nicolai, Eliana Colunga, Katharina Kann. **Morphological Processing of Low-Resource Languages: Where We Are and What's Next.** *Findings of ACL 2022.*
+- Adam Wiemerslage, Miikka Silfverberg, **Changbing Yang**, Arya D McCarthy, Garrett Nicolai, Eliana Colunga, Katharina Kann. **Morphological Processing of Low-Resource Languages: Where We Are and What's Next.** *ACL 2022 Findings.*
 - Bruce Oliver, Clarissa Forbes, **Changbing Yang**, Farhan Samir, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **An Inflectional Database for Gitksan.** *LREC 2022.*
-- Clarissa Forbes, Farhan Samir, Bruce Harold Oliver, **Changbing Yang**, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **Dim Wihl Gat Tun: The Case for Linguistic Expertise in NLP for Underdocumented Languages.** *Findings of ACL 2022.*
+- Clarissa Forbes, Farhan Samir, Bruce Harold Oliver, **Changbing Yang**, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **Dim Wihl Gat Tun: The Case for Linguistic Expertise in NLP for Underdocumented Languages.** *ACL 2022 Findings.*
 - **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Unsupervised paradigm clustering using transformation rules.** *SIGMORPHON 2021.*
 - Beilei Xiang, **Changbing Yang**, Yu Li, Alex Warstadt and Katharina Kann. **CLiMP: A Benchmark for Chinese Language Model Evaluations.** *EACL 2021.*
 - Sarah Moeller, Ling Liu, **Changbing Yang**, Katharina Kann and Mans Hulden. **IGT2P: From Interlinear Glossed Texts to Paradigms.** *EMNLP 2020.*
