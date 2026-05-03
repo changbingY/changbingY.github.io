@@ -21,7 +21,7 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 ## Publications
 
 - **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller. **Annotation Tools for Language Documentation: A Survey of Capabilities, Gaps, and Morphological Support.** *ComputEL-9, 2026.* <span style="background-color: #fff9c4; padding: 2px 6px; border-radius: 3px;">Travel Grant</span>
-- **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng. **GlossMATE: Multi-Agent Translator Explanations for Glosses.** *LREC 2026 (to appear).*
+- **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng. **GlossMATE: Multi-Agent Translator Explanations for Glosses.** *LREC 2026.*
 - **Changbing Yang**, Franklin Ma, Freda Shi, Jian Zhu. **LingGym: How Far Are LLMs from Thinking Like Field Linguists?** *EMNLP 2025 (Oral).* 🏆 <span style="background-color: #fff9c4; padding: 2px 6px; border-radius: 3px;">Outstanding Paper Award</span>
 - Shenran Wang, **Changbing Yang**, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu. **Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet.** *NAACL 2025.* 🏆 <span style="background-color: #fff9c4; padding: 2px 6px; border-radius: 3px;">Best Theme Paper Runner-Up</span>
 - **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller. **Adaptability of NLP Annotation Tools for Linguistics.** *ComputEL-8, 2025.*
