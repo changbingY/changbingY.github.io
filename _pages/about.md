@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. During my PhD, I have interned at the National Research Council Canada (NRC) with the Language 
-Technologies team. Feel free to reach out if you'd like to chat or explore potential collaborations.
+Technologies team. Currently, I am an Applied Scientist Intern at Amazon, working with the Conversational AI team. Feel free to reach out if you'd like to chat or explore potential collaborations.
 
 ## Research Interests
 My research is at the intersection of linguistics and AI. My work mainly focuses on how modern NLP, especially LLMs, can be used to support low-resource language documentation and analysis. My work combines linguistic insight with computational modeling in two main directions: I develop practical tools and models for endangered and extremely low-resource languages, and I investigate how LLMs represent, generalize, and reason about languages. Beyond model and data, I also work closely with linguists and native speaker communities, so I always try to design tools that are not only technically strong, but also practical and meaningful in real world settings.
@@ -41,6 +41,10 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 
 ## Invited Talks & Guest Lectures
 
+- **Invited Talk**, Nanyang Technological University, May 2026  
+  *Imagining the Future of Language Documentation with LLMs.*
+- **Guest Lecture**, Nanyang Technological University, May 2026  
+  *How Machines Translate.*
 - **Invited Talk**, University of British Columbia (NLP Group), Feb 2026  
   *Multilingual speech synthesis for Ojibwe, Mi'kmaq, and Maliseet.*
 - **Invited Talk**, University of Florida (Computational Linguistics Lab), Jan 2026  
