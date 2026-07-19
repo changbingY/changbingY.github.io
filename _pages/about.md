@@ -10,10 +10,10 @@ redirect_from:
 Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. 
 
 ## Internship Experience
-* Applied Scientist Intern, Amazon
-   Multimodal World Models for Agent Planning
-* Research Intern, National Research Council Canada
-   Multi-Agent Systems for Low-Resource Language Glossing
+* Applied Scientist Intern, Amazon  
+  Multimodal World Models for Agent Planning
+* Research Intern, National Research Council Canada  
+  Multi-Agent Systems for Low-Resource Language Glossing
 
 
 ## Research Interests
