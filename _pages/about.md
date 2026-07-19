@@ -7,11 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. During my PhD, I have interned at the National Research Council Canada (NRC) with the Language 
-Technologies team. Currently, I am an Applied Scientist Intern at Amazon, working with the Conversational AI team. Feel free to reach out if you'd like to chat or explore potential collaborations.
+Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. 
+
+## Internship Experience
+
+* **Applied Scientist Intern, Amazon**
+  Multimodal World Models for Agent Planning
+
+* **Research Intern, National Research Council Canada**
+  Multi-Agent Systems for Low-Resource Language Glossing
+
 
 ## Research Interests
-My research is at the intersection of linguistics and AI. My work mainly focuses on multilingual LLMs, low-resource language technologies, and linguistically grounded AI evaluation. My research studies how language models represent, generalize, and reason across languages, and how these models can be adapted into practical tools for language analysis, annotation, and language documentation.
+My research is at the intersection of linguistics and AI. My work mainly focuses on multilingual LLMs, language technologies, and linguistically grounded AI evaluation. My research studies how language models represent, generalize, and reason across languages, and how these models can be adapted into practical tools for language analysis and language documentation.
 
 ---
 <p style="color: red;"><strong>I am currently on the job market and actively seeking research positions in both academia and industry. Please feel free to reach out if you think there might be a good fit!</strong></p>
@@ -41,6 +49,8 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 
 ## Invited Talks & Guest Lectures
 
+- **Invited Talk**, Ontario Tech University, July 2026  
+  *LingGym: Evaluating LLMs' meta-linguistic reasoning using IGT and reference grammars.*
 - **Invited Talk**, Nanyang Technological University, May 2026  
   *Imagining the Future of Language Documentation with LLMs.*
 - **Guest Lecture**, Nanyang Technological University, May 2026  
