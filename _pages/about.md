@@ -87,7 +87,7 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 **Program Committees:** SIGMORPHON (2022, 2023, 2024)，Computel-8 (2025)
 
 ## Teaching Experience
-**Lecturer** UBC, 2026 fall
+**Lecturer**, UBC, 2026 fall
 - LING 142 Language and Technology
 
 **Lab Instructor / Senior TA**, UBC, 2024–2026
