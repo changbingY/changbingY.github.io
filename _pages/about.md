@@ -11,9 +11,9 @@ Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the 
 
 ## Internship Experience
 * Applied Scientist Intern, Amazon  
-  Multimodal World Models for Agent Planning
+  Project: Multimodal World Models for Agent Planning
 * Research Intern, National Research Council Canada  
-  Multi-Agent Systems for Low-Resource Language Glossing
+  Project: Multi-Agent Systems for Low-Resource Language Glossing
 
 
 ## Research Interests
