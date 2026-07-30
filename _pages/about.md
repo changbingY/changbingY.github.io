@@ -82,7 +82,7 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 ---
 ## Academic Service
 
-**Reviewer:** ACL Rolling Review (2021–present), NAACL (2022), SIGMORPHON (2022, 2023, 2024), ComputEL-8 (2025), WiNLP (2025), ACL-SRW (2026)
+**Reviewer:** AAAI (2026), ACL Rolling Review (2021–present), NAACL (2022), SIGMORPHON (2022, 2023, 2024), ComputEL-8 (2025), WiNLP (2025， 2026), ACL-SRW (2026)
 
 **Program Committees:** SIGMORPHON (2022, 2023, 2024)，Computel-8 (2025)
 
