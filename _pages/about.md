@@ -93,58 +93,67 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 
 ## Invited Talks & Guest Lectures
 
-- **Invited Talk**, Ontario Tech University, July 2026  
-  *LingGym: Evaluating LLMs' meta-linguistic reasoning using IGT and reference grammars.*
-- **Invited Talk**, Nanyang Technological University, May 2026  
-  *Imagining the Future of Language Documentation with LLMs.*
-- **Guest Lecture**, Nanyang Technological University, May 2026  
-  *How Machines Translate.*
-- **Invited Talk**, University of British Columbia (NLP Group), Feb 2026  
-  *Multilingual speech synthesis for Ojibwe, Mi'kmaq, and Maliseet.*
-- **Invited Talk**, University of Florida (Computational Linguistics Lab), Jan 2026  
-  *LingGym: Evaluating LLMs' meta-linguistic reasoning using IGT and reference grammars.*
-- **Invited Talk**, Shanghai International Studies University, Nov 2025  
-  *LingGym: Evaluating LLMs' meta-linguistic reasoning using IGT and reference grammars.*
-- **Invited Talk**, National Research Council Canada, Jun 2025  
-  *Multilingual speech synthesis for Ojibwe, Mi'kmaq, and Maliseet.*
-- **Guest Lecture**, LING 242: Computational Tools for Linguistic Analysis (UBC), Nov 2024  
-  *Automatic glossing encoder–decoder models for linguistic annotation and low-resource language processing.*
+- <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">Invited Talk</span> **LingGym: Evaluating LLMs' Meta-Linguistic Reasoning Using IGT and Reference Grammars**  
+  Ontario Tech University · July 2026
 
+- <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">Invited Talk</span> **Imagining the Future of Language Documentation with LLMs**  
+  Nanyang Technological University · May 2026
+
+- <span style="background-color:#59A14F;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">Guest Lecture</span> **How Machines Translate**  
+  Nanyang Technological University · May 2026
+
+- <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">Invited Talk</span> **Multilingual Speech Synthesis for Ojibwe, Mi'kmaq, and Maliseet**  
+  University of British Columbia, NLP Group · February 2026
+
+- <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">Invited Talk</span> **LingGym: Evaluating LLMs' Meta-Linguistic Reasoning Using IGT and Reference Grammars**  
+  University of Florida, Computational Linguistics Lab · January 2026
+
+- <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">Invited Talk</span> **LingGym: Evaluating LLMs' Meta-Linguistic Reasoning Using IGT and Reference Grammars**  
+  Shanghai International Studies University · November 2025
+
+- <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">Invited Talk</span> **Multilingual Speech Synthesis for Ojibwe, Mi'kmaq, and Maliseet**  
+  National Research Council Canada · June 2025
+
+- <span style="background-color:#59A14F;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">Guest Lecture</span> **Automatic Glossing Encoder–Decoder Models for Linguistic Annotation and Low-Resource Language Processing**  
+  LING 242: Computational Tools for Linguistic Analysis, UBC · November 2024
+  
 ---
+
 ## Awards & Honors
-- **ComputEL-9** (US 1,000), Supported by Google, 2026
-- **Research Grant** (CAD 7,500), Vector Institute, 2026
-- **Outstanding Student Contribution**, NRC, 2025
-- **Ph.D. CoLab Award** (CAD 8,000), UBC, 2024
-- **Affiliated Fellowship** (CAD 16,000), UBC, 2023–2024
-- **Teaching Assistant Excellence Award**, UBC, 2023, 2024, 2025
-- **Faculty of Arts Graduate Award**, UBC, 2021–2026
-- **International Tuition Award**, UBC, 2021–2026
-- **President's Academic Excellence Initiative PhD Award**, UBC, 2021–2026
-- **JASSO Scholarship** (JPY 80,000), Tohoku University, 2017
-- **Province-level Student Research Training Program Scholarship** (CNY 2,000), Southeast University, 2016
-- **Course Scholarship** (CNY 1,000), Southeast University, 2015
+
+- **ComputEL-9 Travel Grant** · Google · USD 1,000 · 2026
+- **Research Grant** · Vector Institute · CAD 7,500 · 2026
+- **Outstanding Student Contribution** · National Research Council Canada · 2025
+- **Ph.D. CoLab Award** · UBC · CAD 8,000 · 2024
+- **Affiliated Fellowship** · UBC · CAD 16,000 · 2023–2024
+- **Teaching Assistant Excellence Award** · UBC · 2023, 2024, 2025
+- **Faculty of Arts Graduate Award** · UBC · 2021–2026
+- **International Tuition Award** · UBC · 2021–2026
+- **President's Academic Excellence Initiative PhD Award** · UBC · 2021–2026
+- **JASSO Scholarship** · Tohoku University · JPY 80,000 · 2017
+- **Province-level Student Research Training Program Scholarship** · Southeast University · CNY 2,000 · 2016
+- **Course Scholarship** · Southeast University · CNY 1,000 · 2015
 
 ---
 ## Academic Service
 
-**Reviewer:** AAAI (2027), ACL Rolling Review (2021–present), NAACL (2022), SIGMORPHON (2022, 2023, 2024), ComputEL-8 (2025), WiNLP (2025, 2026), ACL-SRW (2026)
+**Reviewer**  
+AAAI 2027 · ACL Rolling Review 2021–present · NAACL 2022 · SIGMORPHON 2022–2024 · ComputEL-8 2025 · WiNLP 2025–2026 · ACL-SRW 2026
 
-**Program Committees:** SIGMORPHON (2022, 2023, 2024)，Computel-8 (2025)
+**Program Committee**  
+SIGMORPHON 2022–2024 · ComputEL-8 2025
 
 ## Teaching Experience
-**Lecturer**, UBC, 2026 fall
-- LING 142 Language and Technology
 
-**Lab Instructor / Senior TA**, UBC, 2024–2026
-- DSCI 511: Programming for Data Science
-- DSCI 512: Algorithms and Data Structures
-- COLX 521: Corpus Linguistics
+**Lecturer** · University of British Columbia · Fall 2026  
+LING 142 — Language and Technology
 
-**Teaching Assistant**, UBC, 2022–2024
-- COLX 525: Computational Morphology
-- COLX 561: Computational Semantics
-- COLX 581: NLP for Low-Resource Languages
+**Lab Instructor / Senior Teaching Assistant** · University of British Columbia · 2024–2026  
+DSCI 511 — Programming for Data Science  
+DSCI 512 — Algorithms and Data Structures  
+COLX 521 — Corpus Linguistics
 
-**Teaching Assistant**, UBC, 2023
-- LING 142: Language and Technology
+**Teaching Assistant** · University of British Columbia · 2022–2024  
+COLX 525 — Computational Morphology  
+COLX 561 — Computational Semantics  
+COLX 581 — NLP for Low-Resource Languages
