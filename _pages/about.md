@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS in Computational Linguistics from the **University of Colorado Boulder** and my BA in English & Linguistics from **Southeast University**. 
+Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS from the **University of Colorado Boulder** and my BA from **Southeast University**. 
 
 ## Internship Experience
 * Applied Scientist Intern, Amazon  
