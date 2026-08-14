@@ -25,72 +25,69 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 ---
 ## Publications
 
-- **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller.
+- **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller.  
   **Annotation Tools for Language Documentation: A Survey of Capabilities, Gaps, and Morphological Support.**  
-  <span style="background-color:#8C6D9E;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ComputEL</span> *2026.*  
-  <span style="background-color:#fff9c4;padding:2px 6px;border-radius:3px;">Travel Grant</span>
+  <span style="background-color:#8C6D9E;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ComputEL</span> *2026* · [Paper](https://aclanthology.org/2026.computel-1.9/) · <span style="background-color:#fff9c4;padding:2px 6px;border-radius:3px;">Travel Grant</span>
 
-- **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng.
+- **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu, Mengzhe Geng.  
   **GlossMATE: Multi-Agent Translator Explanations for Glosses.**  
-  <span style="background-color:#7B61A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">LREC</span> *2026.*
+  <span style="background-color:#7B61A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">LREC</span> *2026* · [Paper](https://aclanthology.org/2026.lrec-1.709/)
 
-- **Changbing Yang**, Franklin Ma, Freda Shi, Jian Zhu.
+- **Changbing Yang**, Franklin Ma, Freda Shi, Jian Zhu.  
   **LingGym: How Far Are LLMs from Thinking Like Field Linguists?**  
-  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2025 (Oral).*  
-  🏆 <span style="background-color:#fff9c4;padding:2px 6px;border-radius:3px;">Outstanding Paper Award</span>
+  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2025 (Oral)* · [Paper](https://aclanthology.org/2025.emnlp-main.69/) · 🏆 <span style="background-color:#fff9c4;padding:2px 6px;border-radius:3px;">Outstanding Paper Award</span>
 
-- Shenran Wang, **Changbing Yang**, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu.
-  **Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet.**  
-  <span style="background-color:#59A14F;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">NAACL</span> *2025.*  
-  🏆 <span style="background-color:#fff9c4;padding:2px 6px;border-radius:3px;">Best Theme Paper Runner-Up</span>
+- Shenran Wang, **Changbing Yang**, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu.  
+  **Developing Multilingual Speech Synthesis System for Ojibwe, Mi'kmaq, and Maliseet.**  
+  <span style="background-color:#59A14F;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">NAACL</span> *2025* · [Paper](https://aclanthology.org/2025.naacl-short.69/) · 🏆 <span style="background-color:#fff9c4;padding:2px 6px;border-radius:3px;">Best Theme Paper Runner-Up</span>
 
-- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg.
+- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg.  
   **Multiple Sources are Better Than One: Incorporating External Knowledge in Low-Resource Glossing.**  
-  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2024.*
+  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2024* · [Paper](https://aclanthology.org/2024.emnlp-main.261/)
 
-- Jian Zhu, **Changbing Yang**, Farhan Samir, Jahurul Islam.
-  **The taste of IPA: Towards open-vocabulary keyword matching and forced alignment in any language.**  
-  <span style="background-color:#59A14F;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">NAACL</span> *2024.*
+- Jian Zhu, **Changbing Yang**, Farhan Samir, Jahurul Islam.  
+  **The Taste of IPA: Towards Open-Vocabulary Keyword Matching and Forced Alignment in Any Language.**  
+  <span style="background-color:#59A14F;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">NAACL</span> *2024* · [Paper](https://aclanthology.org/2024.naacl-long.43/)
 
-- Adam Wiemerslage, **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg, and Katharina Kann.
+- Adam Wiemerslage, **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg, Katharina Kann.  
   **An Investigation of Noise in Morphological Inflection.**  
-  <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2023.*
+  <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2023* · [Paper](https://aclanthology.org/2023.findings-acl.207/)
 
-- Garrett Nicolai, **Changbing Yang**, Miikka Silfverberg.
+- Garrett Nicolai, **Changbing Yang**, Miikka Silfverberg.  
   **Penalizing Divergence: Multi-Parallel Translation for Low-Resource Languages of North America.**  
-  <span style="background-color:#EDC948;color:#222;padding:2px 7px;border-radius:4px;font-size:0.85em;">COLING</span> *2022.*
+  <span style="background-color:#EDC948;color:#222;padding:2px 7px;border-radius:4px;font-size:0.85em;">COLING</span> *2022* · [Paper](https://aclanthology.org/2022.coling-1.378/)
 
-- **Changbing Yang**, Ruixin (Ray) Yang, Garrett Nicolai, Miikka Silfverberg.
+- **Changbing Yang**, Ruixin (Ray) Yang, Garrett Nicolai, Miikka Silfverberg.  
   **Generalizing Morphological Inflection Systems to Unseen Lemmas.**  
-  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2022.*
+  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2022* · [Paper](https://aclanthology.org/2022.sigmorphon-1.23/)
 
-- Adam Wiemerslage, Miikka Silfverberg, **Changbing Yang**, Arya D McCarthy, Garrett Nicolai, Eliana Colunga, Katharina Kann.
+- Adam Wiemerslage, Miikka Silfverberg, **Changbing Yang**, Arya D McCarthy, Garrett Nicolai, Eliana Colunga, Katharina Kann.  
   **Morphological Processing of Low-Resource Languages: Where We Are and What's Next.**  
-  <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2022.*
+  <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2022* · [Paper](https://aclanthology.org/2022.findings-acl.80/)
 
-- Bruce Oliver, Clarissa Forbes, **Changbing Yang**, Farhan Samir, Edith Coates, Garrett Nicolai, Miikka Silfverberg.
+- Bruce Oliver, Clarissa Forbes, **Changbing Yang**, Farhan Samir, Edith Coates, Garrett Nicolai, Miikka Silfverberg.  
   **An Inflectional Database for Gitksan.**  
-  <span style="background-color:#7B61A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">LREC</span> *2022.*
+  <span style="background-color:#7B61A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">LREC</span> *2022* · [Paper](https://aclanthology.org/2022.lrec-1.710/)
 
-- Clarissa Forbes, Farhan Samir, Bruce Harold Oliver, **Changbing Yang**, Edith Coates, Garrett Nicolai, Miikka Silfverberg.
+- Clarissa Forbes, Farhan Samir, Bruce Harold Oliver, **Changbing Yang**, Edith Coates, Garrett Nicolai, Miikka Silfverberg.  
   **Dim Wihl Gat Tun: The Case for Linguistic Expertise in NLP for Underdocumented Languages.**  
-  <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2022.*
+  <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2022* · [Paper](https://aclanthology.org/2022.findings-acl.167/)
 
-- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg.
-  **Unsupervised paradigm clustering using transformation rules.**  
-  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2021.*
+- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg.  
+  **Unsupervised Paradigm Clustering Using Transformation Rules.**  
+  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2021* · [Paper](https://aclanthology.org/2021.sigmorphon-1.11/)
 
-- Beilei Xiang, **Changbing Yang**, Yu Li, Alex Warstadt and Katharina Kann.
+- Beilei Xiang, **Changbing Yang**, Yu Li, Alex Warstadt, Katharina Kann.  
   **CLiMP: A Benchmark for Chinese Language Model Evaluations.**  
-  <span style="background-color:#76B7B2;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EACL</span> *2021.*
+  <span style="background-color:#76B7B2;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EACL</span> *2021* · [Paper](https://aclanthology.org/2021.eacl-main.242/)
 
-- Sarah Moeller, Ling Liu, **Changbing Yang**, Katharina Kann and Mans Hulden.
+- Sarah Moeller, Ling Liu, **Changbing Yang**, Katharina Kann, Mans Hulden.  
   **IGT2P: From Interlinear Glossed Texts to Paradigms.**  
-  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2020.*
+  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2020* · [Paper](https://aclanthology.org/2020.emnlp-main.424/)
 
-- Sarah Beemer, ..., **Changbing Yang** and Mans Hulden.
+- Sarah Beemer, ..., **Changbing Yang**, Mans Hulden.  
   **Linguist vs. Machine: Rapid Development of Finite-State Morphological Grammars.**  
-  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2020.*
+  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2020* · [Paper](https://aclanthology.org/2020.sigmorphon-1.18/)
 
 ---
 
