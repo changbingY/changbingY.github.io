@@ -17,14 +17,14 @@ Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the 
 
 
 ## Research Interests
-My research is at the intersection of linguistics and AI. My work mainly focuses on multilingual LLMs, language technologies, and linguistically grounded AI evaluation. My research studies how language models represent, generalize, and reason across languages, and how these models can be adapted into practical tools for language analysis and language documentation.
+My research is at the intersection of linguistics and AI. My work mainly focuses on multilingual LLMs, Multi-agent system, language technologies, and linguistically grounded AI evaluation. 
 
 ---
 <p style="color: red;"><strong>I am currently on the job market and actively seeking research positions in both academia and industry. Please feel free to reach out if you think there might be a good fit!</strong></p>
 
 ---
 
-## Publications
+## Selected Publications
 
 - **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller. **Annotation Tools for Language Documentation: A Survey of Capabilities, Gaps, and Morphological Support.** *ComputEL-9, 2026.* <span style="background-color: #fff9c4; padding: 2px 6px; border-radius: 3px;">Travel Grant</span>
 - **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng. **GlossMATE: Multi-Agent Translator Explanations for Glosses.** *LREC 2026.*
