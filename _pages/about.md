@@ -10,9 +10,9 @@ redirect_from:
 Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the **University of British Columbia**. I received my MS from the **University of Colorado Boulder** and my BA from **Southeast University**. 
 
 ## Internship Experience
-* Applied Scientist Intern, Amazon  
+* Applied Scientist Intern, Amazon, 2026  
   Project: Multimodal World Models for Agent Planning
-* Research Intern, National Research Council Canada  
+* Research Intern, National Research Council Canada, 2025-2026  
   Project: Multi-Agent Systems for Low-Resource Language Glossing
 
 
@@ -73,9 +73,6 @@ My research lies at the intersection of language and AI, with a focus on multili
   **Dim Wihl Gat Tun: The Case for Linguistic Expertise in NLP for Underdocumented Languages.**  
   <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2022* · [Paper](https://aclanthology.org/2022.findings-acl.167/)
 
-- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg.  
-  **Unsupervised Paradigm Clustering Using Transformation Rules.**  
-  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2021* · [Paper](https://aclanthology.org/2021.sigmorphon-1.11/)
 
 - Beilei Xiang, **Changbing Yang**, Yu Li, Alex Warstadt, Katharina Kann.  
   **CLiMP: A Benchmark for Chinese Language Model Evaluations.**  
@@ -85,9 +82,6 @@ My research lies at the intersection of language and AI, with a focus on multili
   **IGT2P: From Interlinear Glossed Texts to Paradigms.**  
   <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2020* · [Paper](https://aclanthology.org/2020.emnlp-main.424/)
 
-- Sarah Beemer, ..., **Changbing Yang**, Mans Hulden.  
-  **Linguist vs. Machine: Rapid Development of Finite-State Morphological Grammars.**  
-  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2020* · [Paper](https://aclanthology.org/2020.sigmorphon-1.18/)
 
 ---
 
@@ -130,9 +124,7 @@ My research lies at the intersection of language and AI, with a focus on multili
 - **Faculty of Arts Graduate Award** · UBC · 2021–2026
 - **International Tuition Award** · UBC · 2021–2026
 - **President's Academic Excellence Initiative PhD Award** · UBC · 2021–2026
-- **JASSO Scholarship** · Tohoku University · JPY 80,000 · 2017
-- **Province-level Student Research Training Program Scholarship** · Southeast University · CNY 2,000 · 2016
-- **Course Scholarship** · Southeast University · CNY 1,000 · 2015
+- **JASSO Scholarship** ·Exchange Program· Tohoku University · JPY 80,000 · 2017
 
 ---
 ## Academic Service
