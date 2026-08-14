@@ -17,7 +17,7 @@ Hi, I'm Changbing, a 5th-year PhD candidate in Computational Linguistics at the 
 
 
 ## Research Interests
-My research is at the intersection of linguistics and AI. My work mainly focuses on multilingual LLMs, Multi-agent system, language technologies, and linguistically grounded AI evaluation. 
+My research is at the intersection of linguistics and AI. My work mainly focuses on multilingual LLMs, Multi-agent system, language technologies, and linguistically grounded AI evaluation. My research studies how LLMs represent, generalize, and reason across languages, and how these models can be adapted into practical tools.
 
 ---
 <p style="color: red;"><strong>I am currently on the job market and actively seeking research positions in both academia and industry. Please feel free to reach out if you think there might be a good fit!</strong></p>
