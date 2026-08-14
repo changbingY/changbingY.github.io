@@ -23,40 +23,58 @@ My research is at the intersection of linguistics and AI. My work mainly focuses
 <p style="color: red;"><strong>I am currently on the job market and actively seeking research positions in both academia and industry. Please feel free to reach out if you think there might be a good fit!</strong></p>
 
 ---
-
 ## Publications
 
-- **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller. **Annotation Tools for Language Documentation: A Survey of Capabilities, Gaps, and Morphological Support.** *ComputEL-9, 2026.* <span style="background-color: #fff9c4; padding: 2px 6px; border-radius: 3px;">Travel Grant</span>
+- **Changbing Yang**, Patricia Anderson, Godfred Agyapong, Sarah Moeller. **Annotation Tools for Language Documentation: A Survey of Capabilities, Gaps, and Morphological Support.**  
+  <span style="background-color:#8C6D9E;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ComputEL</span> *2026.*  
+  <span style="background-color:#fff9c4;padding:2px 6px;border-radius:3px;">Travel Grant</span>
 
-- **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng. **GlossMATE: Multi-Agent Translator Explanations for Glosses.** *LREC 2026.*
-  
-- **Changbing Yang**, Franklin Ma, Freda Shi, Jian Zhu. **LingGym: How Far Are LLMs from Thinking Like Field Linguists?** *EMNLP 2025 (Oral).* 🏆 <span style="background-color: #fff9c4; padding: 2px 6px; border-radius: 3px;">Outstanding Paper Award</span>
+- **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu and Mengzhe Geng. **GlossMATE: Multi-Agent Translator Explanations for Glosses.**  
+  <span style="background-color:#7B61A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">LREC</span> *2026.*
 
-- Shenran Wang, **Changbing Yang**, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu. **Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet.** *NAACL 2025.* 🏆 <span style="background-color: #fff9c4; padding: 2px 6px; border-radius: 3px;">Best Theme Paper Runner-Up</span>
+- **Changbing Yang**, Franklin Ma, Freda Shi, Jian Zhu. **LingGym: How Far Are LLMs from Thinking Like Field Linguists?**  
+  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2025 (Oral).*  
+  🏆 <span style="background-color:#fff9c4;padding:2px 6px;border-radius:3px;">Outstanding Paper Award</span>
 
-- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Multiple Sources are Better Than One: Incorporating External Knowledge in Low-Resource Glossing.** *EMNLP 2024.*
-  
-- Jian Zhu, **Changbing Yang**, Farhan Samir, Jahurul Islam. **The taste of IPA: Towards open-vocabulary keyword matching and forced alignment in any language.** *NAACL 2024.*
-  
-- Adam Wiemerslage, **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg, and Katharina Kann. **An Investigation of Noise in Morphological Inflection.** *ACL 2023 Findings.*
-  
-- Garrett Nicolai, **Changbing Yang**, Miikka Silfverberg. **Penalizing Divergence: Multi-Parallel Translation for Low-Resource Languages of North America.** *COLING 2022.*
-  
-- **Changbing Yang**, Ruixin (Ray) Yang, Garrett Nicolai, Miikka Silfverberg. **Generalizing Morphological Inflection Systems to Unseen Lemmas.** *SIGMORPHON 2022.*
-  
-- Adam Wiemerslage, Miikka Silfverberg, **Changbing Yang**, Arya D McCarthy, Garrett Nicolai, Eliana Colunga, Katharina Kann. **Morphological Processing of Low-Resource Languages: Where We Are and What's Next.** *ACL 2022 Findings.*
-  
-- Bruce Oliver, Clarissa Forbes, **Changbing Yang**, Farhan Samir, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **An Inflectional Database for Gitksan.** *LREC 2022.*
-  
-- Clarissa Forbes, Farhan Samir, Bruce Harold Oliver, **Changbing Yang**, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **Dim Wihl Gat Tun: The Case for Linguistic Expertise in NLP for Underdocumented Languages.** *ACL 2022 Findings.*
-  
-- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Unsupervised paradigm clustering using transformation rules.** *SIGMORPHON 2021.*
-  
-- Beilei Xiang, **Changbing Yang**, Yu Li, Alex Warstadt and Katharina Kann. **CLiMP: A Benchmark for Chinese Language Model Evaluations.** *EACL 2021.*
-  
-- Sarah Moeller, Ling Liu, **Changbing Yang**, Katharina Kann and Mans Hulden. **IGT2P: From Interlinear Glossed Texts to Paradigms.** *EMNLP 2020.*
-  
-- Sarah Beemer, ..., **Changbing Yang** and Mans Hulden. **Linguist vs. Machine: Rapid Development of Finite-State Morphological Grammars.** *SIGMORPHON 2020.*
+- Shenran Wang, **Changbing Yang**, Mike Parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu. **Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet.**  
+  <span style="background-color:#59A14F;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">NAACL</span> *2025.*  
+  🏆 <span style="background-color:#fff9c4;padding:2px 6px;border-radius:3px;">Best Theme Paper Runner-Up</span>
+
+- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Multiple Sources are Better Than One: Incorporating External Knowledge in Low-Resource Glossing.**  
+  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2024.*
+
+- Jian Zhu, **Changbing Yang**, Farhan Samir, Jahurul Islam. **The taste of IPA: Towards open-vocabulary keyword matching and forced alignment in any language.**  
+  <span style="background-color:#59A14F;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">NAACL</span> *2024.*
+
+- Adam Wiemerslage, **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg, and Katharina Kann. **An Investigation of Noise in Morphological Inflection.**  
+  <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2023.*
+
+- Garrett Nicolai, **Changbing Yang**, Miikka Silfverberg. **Penalizing Divergence: Multi-Parallel Translation for Low-Resource Languages of North America.**  
+  <span style="background-color:#EDC948;color:#222;padding:2px 7px;border-radius:4px;font-size:0.85em;">COLING</span> *2022.*
+
+- **Changbing Yang**, Ruixin (Ray) Yang, Garrett Nicolai, Miikka Silfverberg. **Generalizing Morphological Inflection Systems to Unseen Lemmas.**  
+  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2022.*
+
+- Adam Wiemerslage, Miikka Silfverberg, **Changbing Yang**, Arya D McCarthy, Garrett Nicolai, Eliana Colunga, Katharina Kann. **Morphological Processing of Low-Resource Languages: Where We Are and What's Next.**  
+  <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2022.*
+
+- Bruce Oliver, Clarissa Forbes, **Changbing Yang**, Farhan Samir, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **An Inflectional Database for Gitksan.**  
+  <span style="background-color:#7B61A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">LREC</span> *2022.*
+
+- Clarissa Forbes, Farhan Samir, Bruce Harold Oliver, **Changbing Yang**, Edith Coates, Garrett Nicolai, Miikka Silfverberg. **Dim Wihl Gat Tun: The Case for Linguistic Expertise in NLP for Underdocumented Languages.**  
+  <span style="background-color:#E15759;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">ACL Findings</span> *2022.*
+
+- **Changbing Yang**, Garrett Nicolai, Miikka Silfverberg. **Unsupervised paradigm clustering using transformation rules.**  
+  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2021.*
+
+- Beilei Xiang, **Changbing Yang**, Yu Li, Alex Warstadt and Katharina Kann. **CLiMP: A Benchmark for Chinese Language Model Evaluations.**  
+  <span style="background-color:#76B7B2;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EACL</span> *2021.*
+
+- Sarah Moeller, Ling Liu, **Changbing Yang**, Katharina Kann and Mans Hulden. **IGT2P: From Interlinear Glossed Texts to Paradigms.**  
+  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2020.*
+
+- Sarah Beemer, ..., **Changbing Yang** and Mans Hulden. **Linguist vs. Machine: Rapid Development of Finite-State Morphological Grammars.**  
+  <span style="background-color:#F28E2B;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">SIGMORPHON</span> *2020.*
 
 ---
 
