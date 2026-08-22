@@ -24,6 +24,9 @@ My research lies at the intersection of language and AI, with a focus on multili
 
 ---
 ## Selected Publications
+- **Changbing Yang**, Christopher Hammerly, Freda Shi, Jian Zhu.  
+  **LLM Agents as Computational Typologists**  
+  <span style="background-color:#4C78A8;color:white;padding:2px 7px;border-radius:4px;font-size:0.85em;">EMNLP</span> *2026* 
 
 - **Changbing Yang**, Patrick Littell, Gabriel Bernier-Colborne, Yanfei Lu, Mengzhe Geng.  
   **GlossMATE: Multi-Agent Translator Explanations for Glosses.**  
